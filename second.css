@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+#what-we-do {
+    padding: 50px;
+    width: 87%;
+    padding: 141px 67px;
+    width: 87%;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.text-section {
+    max-width: 50%;
+}
+
+.text-section h2 {
+    color: #ff5656;
+    font-size: 24px;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+.text-section h3 {
+    color: #000;
+    font-size: 36px;
+    margin: 10px 0;
+    font-weight: bold;
+    width: 401px;
+}
+
+.text-section p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.5;
+    width: 667px;
+
+    position: relative;
+    top: 22px;
+}
+.servicePar{
+    display: flex;
+    width: 197%;
+    justify-content: space-between;
+    
+}
